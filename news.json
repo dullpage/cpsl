@@ -1,0 +1,12 @@
+[  
+   {  
+      "thumbnail": "https://www.google.com.hk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "title":"testing message with an image <b>Nice!</b>",
+      "lastModified": "2018-02-01 09:15:35"
+   },
+   {  
+      "thumbnail": "",
+      "title":"testing message without image",
+      "lastModified": "2018-01-01 19:45:11"
+   }
+]
